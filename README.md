@@ -1,8 +1,8 @@
 ### Hi there, I'm [Mahendra!](https://iampika.github.io) 👋
 
-<!-- <a href="https://twitter.com/iampikaa">
+<a href="https://twitter.com/iampikaa">
   <img align="left" alt="Mahendra Choudhary | Twitter" width="21px" src="https://raw.githubusercontent.com/iampika/iampika/master/assets/twitter.svg" />
-</a> -->
+</a>
 
 <br />
 <br />
