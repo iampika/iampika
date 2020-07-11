@@ -20,8 +20,6 @@ Hi, I'm Mahendra Choudhary, a passionate self-taught full stack web developer fr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-![Mahendra's github stats](https://github-readme-stats.vercel.app/api?username=iampika&show_icons=true&hide_border=true)
-
 <a href="https://github.com/iampika/mamyno-movie-app">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iampika&repo=mamyno-movie-app" />
 </a>
